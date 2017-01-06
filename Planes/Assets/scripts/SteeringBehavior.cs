@@ -10,6 +10,7 @@ public class SteeringBehavior : MonoBehaviour {
 		//test3
 		//test4
 		//test5
+		//test CI 2
 	}
 	
 	// Update is called once per frame
