@@ -18,6 +18,7 @@ public class SteeringBehavior : MonoBehaviour {
 		//other user 2
 		//other user 3
 		//other user 4
+		//other user 5
 	}
 	
 	// Update is called once per frame
