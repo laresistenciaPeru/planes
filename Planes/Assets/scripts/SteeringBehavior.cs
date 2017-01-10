@@ -16,6 +16,7 @@ public class SteeringBehavior : MonoBehaviour {
 		//test CI 204
 		//other user
 		//other user 2
+		//other user 3
 	}
 	
 	// Update is called once per frame
