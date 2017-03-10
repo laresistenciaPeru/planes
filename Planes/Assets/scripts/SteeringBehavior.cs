@@ -17,6 +17,7 @@ public class SteeringBehavior : MonoBehaviour {
 		//test CI 205
 		//test CI testBranch01
 		//tets forbidden branch
+		//test CI testBranch02
 	}
 	
 	// Update is called once per frame
