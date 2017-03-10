@@ -16,6 +16,8 @@ public class SteeringBehavior : MonoBehaviour {
 		//test CI 204
 		//test CI 205
 		//test CI testBranch01
+		//test branchTestBranch01Child01
+		//test branchTestBranch01Child02
 	}
 	
 	// Update is called once per frame
