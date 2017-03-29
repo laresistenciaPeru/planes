@@ -18,6 +18,7 @@ public class SteeringBehavior : MonoBehaviour {
 
 		//test whitelist
 		//test whitelist 2
+		//test whitelist 3
 	}
 	
 	// Update is called once per frame
