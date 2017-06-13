@@ -15,7 +15,13 @@ public class SteeringBehavior : MonoBehaviour {
 		//test CI 203
 		//test CI 204
 		//test CI 205
-		//test CI testBranch02
+
+		//test whitelist
+		//test whitelist 2
+		//test whitelist 3
+		
+		//test response 01
+		//test response 02
 	}
 	
 	// Update is called once per frame
